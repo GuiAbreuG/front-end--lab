@@ -1,96 +1,241 @@
+
 # Frontend Development Study Notes
 
-A personal repository dedicated to learning frontend development, building responsive interfaces, and improving web development skills through practical projects.
+A repository dedicated to learning frontend development, exploring web technologies, and building responsive and interactive user interfaces.
 
-🎯 Goals
-Understand how websites work.
-Build accessible and responsive interfaces.
-Develop strong HTML, CSS, and JavaScript skills.
-Understand modern frontend development concepts.
-Create practical projects to apply what I learn.
-📚 Study Roadmap
-01. HTML
-HTML document structure
-Semantic HTML
-Headings and paragraphs
-Links and images
-Lists and tables
-Forms and inputs
-Accessibility fundamentals
-02. CSS
-Selectors and properties
-Colors and typography
-Box model
-Margin and padding
-Flexbox
-CSS Grid
-Positioning
-Pseudo-classes and pseudo-elements
-Responsive design
-Media queries
-CSS animations and transitions
-03. JavaScript
-Variables and data types
-Operators
-Conditional statements
-Loops
-Functions
-Arrays and objects
-DOM manipulation
-Events
-ES6+ features
-Promises and async/await
-Fetch API
-04. Web Development Concepts
-Client-server architecture
-HTTP and HTTPS
-APIs
-JSON
-Browser DevTools
-Local Storage
-Session Storage
-05. Git and GitHub
-Git fundamentals
-Commits
-Branches
-Merging
-Pull requests
-Repository management
-GitHub Pages
-06. Projects
-Personal portfolio
-Landing pages
-Responsive websites
-Interactive forms
-To-do list
-Weather application
-API-based applications
-📂 Repository Structure
-text
+---
+
+## About
+
+This repository contains my personal study notes, code examples, exercises, and projects related to frontend development.
+
+The goal is to understand how the web works and develop practical skills in building accessible, responsive, and user-friendly websites.
+
+---
+
+## Learning Roadmap
+
+### 1. HTML
+
+- [ ] Introduction to HTML
+- [ ] HTML Document Structure
+- [ ] Headings and Paragraphs
+- [ ] Links and Images
+- [ ] Lists
+- [ ] Tables
+- [ ] Forms and Input Elements
+- [ ] Semantic HTML
+- [ ] HTML Attributes
+- [ ] Accessibility Fundamentals
+- [ ] HTML5 Features
+
+---
+
+### 2. CSS
+
+- [ ] Introduction to CSS
+- [ ] CSS Syntax and Selectors
+- [ ] Colors and Typography
+- [ ] Backgrounds and Borders
+- [ ] Box Model
+- [ ] Margin and Padding
+- [ ] Display Property
+- [ ] Positioning
+- [ ] Flexbox
+- [ ] CSS Grid
+- [ ] Pseudo-classes
+- [ ] Pseudo-elements
+- [ ] Transitions
+- [ ] Animations
+- [ ] Responsive Design
+- [ ] Media Queries
+- [ ] CSS Variables
+- [ ] CSS Specificity
+
+---
+
+### 3. JavaScript
+
+- [ ] Introduction to JavaScript
+- [ ] Variables (let, const, var)
+- [ ] Data Types
+- [ ] Operators
+- [ ] Type Conversion
+- [ ] Conditional Statements
+- [ ] Loops
+- [ ] Functions
+- [ ] Arrow Functions
+- [ ] Arrays
+- [ ] Objects
+- [ ] Array Methods (map, filter, reduce, forEach)
+- [ ] String Methods
+- [ ] Destructuring
+- [ ] Spread and Rest Operators
+- [ ] Template Literals
+- [ ] DOM Manipulation
+- [ ] Events and Event Listeners
+- [ ] Form Validation
+- [ ] Error Handling
+- [ ] ES6+ Features
+- [ ] Promises
+- [ ] Async / Await
+- [ ] Fetch API
+- [ ] JSON
+
+---
+
+### 4. Web Development Fundamentals
+
+- [ ] How the Internet Works
+- [ ] Client-Server Architecture
+- [ ] HTTP and HTTPS
+- [ ] DNS Fundamentals
+- [ ] REST APIs
+- [ ] JSON Data Format
+- [ ] Browser DevTools
+- [ ] Local Storage
+- [ ] Session Storage
+- [ ] Cookies
+- [ ] CORS Fundamentals
+- [ ] Accessibility (a11y)
+- [ ] SEO Fundamentals
+- [ ] Web Performance
+- [ ] Responsive Web Design
+
+---
+
+### 5. Git and GitHub
+
+- [ ] Introduction to Version Control
+- [ ] Git Fundamentals
+- [ ] Creating Repositories
+- [ ] Git Init
+- [ ] Git Add
+- [ ] Git Commit
+- [ ] Git Push
+- [ ] Git Pull
+- [ ] Git Clone
+- [ ] Branches
+- [ ] Merging
+- [ ] Merge Conflicts
+- [ ] Pull Requests
+- [ ] GitHub Pages
+- [ ] README Documentation
+
+---
+
+### 6. React
+
+- [ ] Introduction to React
+- [ ] Components
+- [ ] JSX
+- [ ] Props
+- [ ] State
+- [ ] Event Handling
+- [ ] Conditional Rendering
+- [ ] Lists and Keys
+- [ ] React Hooks
+- [ ] useState
+- [ ] useEffect
+- [ ] useContext
+- [ ] React Router
+- [ ] Forms in React
+- [ ] API Integration
+- [ ] Component Lifecycle
+- [ ] State Management
+
+---
+
+### 7. Practical Projects
+
+- [ ] Personal Portfolio
+- [ ] Landing Page
+- [ ] Responsive Website
+- [ ] Login and Registration Form
+- [ ] Calculator
+- [ ] To-Do List
+- [ ] Digital Clock
+- [ ] Weather Application
+- [ ] Quiz Application
+- [ ] API-Based Application
+- [ ] E-commerce Interface
+- [ ] Dashboard Interface
+
+---
+
+## Repository Structure
+
+```text
 frontend-study-notes/
-│
-├── html/
-├── css/
-├── javascript/
-├── web-concepts/
-├── git-github/
-├── projects/
-└── README.md
+|
+|-- html/
+|   |-- fundamentals/
+|   |-- forms/
+|   |-- semantic-html/
+|
+|-- css/
+|   |-- fundamentals/
+|   |-- flexbox/
+|   |-- grid/
+|   |-- responsive-design/
+|
+|-- javascript/
+|   |-- fundamentals/
+|   |-- functions/
+|   |-- arrays-and-objects/
+|   |-- dom/
+|   |-- asynchronous-js/
+|
+|-- web-concepts/
+|
+|-- git-github/
+|
+|-- react/
+|
+|-- projects/
+|
+|-- README.md
+```
 
-🛠️ Tools and Technologies
-HTML5
-CSS3
-JavaScript (ES6+)
-Visual Studio Code
-Git
-GitHub
-Browser DevTools
-📈 Progress
+---
 
-This repository is continuously updated as I explore frontend technologies, practice coding, and build new projects.
+## Tools and Technologies
 
-📌 Purpose
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React
+- Visual Studio Code
+- Git
+- GitHub
+- Browser DevTools
 
-This is a public learning repository created to document my frontend development journey, showcase practical exercises, and demonstrate continuous learning.
+---
 
-Building, experimenting, and improving every day.
+## Progress Tracking
+
+- [ ] Complete HTML Fundamentals
+- [ ] Complete CSS Fundamentals
+- [ ] Practice Responsive Design
+- [ ] Complete JavaScript Fundamentals
+- [ ] Practice DOM Manipulation
+- [ ] Work with APIs
+- [ ] Learn Git and GitHub Workflows
+- [ ] Learn React Fundamentals
+- [ ] Build Practical Projects
+
+---
+
+## Purpose
+
+This repository is part of my continuous learning journey in frontend development.
+
+It serves as a personal knowledge base where I document concepts, practice coding, track my progress, and showcase projects.
+
+The content will be continuously updated as I learn new technologies and improve my development skills.
+
+---
+
+**Status:** In Progress
+
+**Last Updated:** November 2026
