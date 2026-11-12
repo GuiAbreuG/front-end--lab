@@ -17,13 +17,13 @@ The goal is to understand how the web works and develop practical skills in buil
 
 ### 1. HTML
 
-- [ ] Introduction to HTML
-- [ ] HTML Document Structure
-- [ ] Headings and Paragraphs
-- [ ] Links and Images
-- [ ] Lists
-- [ ] Tables
-- [ ] Forms and Input Elements
+- [x] Introduction to HTML
+- [x] HTML Document Structure
+- [x] Headings and Paragraphs
+- [x] Links and Images
+- [x] Lists
+- [x] Tables
+- [x] Forms and Input Elements
 - [ ] Semantic HTML
 - [ ] HTML Attributes
 - [ ] Accessibility Fundamentals
