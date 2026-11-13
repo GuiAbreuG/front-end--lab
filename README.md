@@ -24,10 +24,10 @@ The goal is to understand how the web works and develop practical skills in buil
 - [x] Lists
 - [x] Tables
 - [x] Forms and Input Elements
-- [ ] Semantic HTML
-- [ ] HTML Attributes
-- [ ] Accessibility Fundamentals
-- [ ] HTML5 Features
+- [x] Semantic HTML
+- [x] HTML Attributes
+- [x] Accessibility Fundamentals
+- [x] HTML5 Features
 
 ---
 
