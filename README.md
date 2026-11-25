@@ -36,7 +36,7 @@ The goal is to understand how the web works and develop practical skills in buil
 - [x] Introduction to CSS
 - [x] CSS Syntax and Selectors
 - [x] Colors and Typography
-- [ ] Backgrounds and Borders
+- [x] Backgrounds and Borders
 - [ ] Box Model
 - [ ] Margin and Padding
 - [ ] Display Property
